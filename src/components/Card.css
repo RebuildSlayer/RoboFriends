@@ -1,0 +1,9 @@
+.name{
+	text-transform: capitalize;
+}
+.email{
+	text-transform: lowercase;
+}
+.custom:hover{
+	cursor: pointer;
+}
